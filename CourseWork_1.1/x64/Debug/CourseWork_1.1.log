@@ -1,0 +1,69 @@
+﻿  DataBase.cpp
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\DataBase.cpp(97,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\DataBase.cpp(106,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\DataBase.cpp(49,13): warning C4101: size_citi_: неиспользованная локальная переменная
+  Integer.cpp
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Integer.cpp(51,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Integer.cpp(36,13): warning C4101: size_citi_: неиспользованная локальная переменная
+  List.cpp
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(11,11): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(20,11): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(28,8): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(35,8): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(42,8): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(50,11): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(58,8): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(66,11): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(76,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(82,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(88,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(94,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(100,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(107,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(115,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(123,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(131,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(139,13): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(162,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(172,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(183,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(184,20): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(190,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(194,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(169,7): warning C4101: _prev_: неиспользованная локальная переменная
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(214,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(232,12): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(253,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(271,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(291,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(309,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(322,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(328,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(341,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(347,16): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(354,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(359,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(377,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(383,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(396,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(402,16): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(409,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(414,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(447,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(467,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(496,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(500,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(520,15): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(555,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(612,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(617,29): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(638,26): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(657,25): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\List.cpp(668,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Main.cpp
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Main.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Main.cpp(102,30): warning C4804: <: небезопасное использование типа "bool" в операции
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Main.cpp(75,58): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Main.cpp(93,58): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\zykov\Учёба\Информатика\2 курс 1 семестр\Курсовая\CourseWork_1.1\CourseWork_1.1\Main.cpp(128,57): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  Создание кода...
